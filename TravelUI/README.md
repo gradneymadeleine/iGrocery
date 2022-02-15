@@ -10,9 +10,9 @@ Description:
 iGrocery, it is an ecommerce app where users are given the choice to choose groceries. The user would click on the photo of the product that they want, and it will open the item page of said product. The item page gives description, price, and allows the user to choose the quantity of how much they want to buy. There is an add to cart button that adds the product to shopping cart, and a back button to continue browsing. When you are done shopping, you go to the bottom of the app and there is a shopping cart tab, click on it and you are able to see what products you have selected. By swiping left on the product you are able to delete the item from the shopping cart. When done click check out and it take you to check out page where you insert information, such as address and credit card information. When done, you click confirm and a popup will state that order is confirmed and will be delivered shortly.
 
 Work:
-Peter: shopping cart page, checkout page, and local file to connect add to shopping cart button to the shopping cart page
+Peter: shopping cart page, checkout page, and local file to connect "add to cart" button to the shopping cart page
 
-Madeleine: home page, items page, popup screen, and logo
+Madeleine: home page, individual items page, order recieved popup screen, and logo
 
 Reference:
 https://developer.apple.com/forums/thread/652064
