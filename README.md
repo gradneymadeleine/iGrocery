@@ -6,7 +6,7 @@ Description: iGrocery, it is an ecommerce app where users are given the choice t
 
 Work: Peter: shopping cart page, checkout page, and local file to connect "add to cart" button to the shopping cart page
 
-Madeleine: home page, individual items page, order recieved popup screen, and logo
+Madeleine: UI/UX breakdown, home page, individual items page, order recieved popup screen, and logo
 
 Reference: https://developer.apple.com/forums/thread/652064 https://developer.apple.com/forums/thread/118361 https://www.hackingwithswift.com/quick-start/swiftui/how-to-fix-initializer-init-rowcontent-requires-that-sometype-conform-to-identifiable https://stackoverflow.com/questions/58724301/cannot-convert-value-of-type-bindingint-to-expected-argument-type-binding https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-views-in-a-loop-using-foreach https://www.hackingwithswift.com/example-code/language/removing-matching-elements-from-a-collection-removeallwhere https://stackoverflow.com/questions/61853323/swiftui-cannot-convert-value-of-type-bool-to-expected-argument-type-binding https://learnappmaking.com/find-item-in-array-swift/ https://dmitripavlutin.com/how-to-use-correctly-self-keyword-in-swift/ https://stackoverflow.com/questions/24123312/convert-float-value-to-string-in-swift https://medium.com/@CoreyWDavis/reading-writing-and-deleting-files-in-swift-197e886416b0 https://learnappmaking.com/filemanager-files-swift-how-to/#writing-to-a-file-with-swift https://www.hackingwithswift.com/books/ios-swiftui/writing-data-to-the-documents-directory https://www.youtube.com/watch?v=bRnBPJ_dzpg https://www.youtube.com/watch?v=y_zYvrJ_dkg https://www.youtube.com/watch?v=ZAGvgqiXUec
 
