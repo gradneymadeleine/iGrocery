@@ -12,7 +12,7 @@ iGrocery, it is an ecommerce app where users are given the choice to choose groc
 Work:
 Peter: shopping cart page, checkout page, and local file to connect "add to cart" button to the shopping cart page
 
-Madeleine: home page, individual items page, order recieved popup screen, and logo
+Madeleine: UI/UX breakdown, home page, individual items page, order recieved popup screen, and logo
 
 Reference:
 https://developer.apple.com/forums/thread/652064
